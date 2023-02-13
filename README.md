@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Automation Testing<br>👯 I’m looking to collaborate on Freelance Projects<br>🤝 I’m looking for help with Certified QA<br>🌱 I’m currently learning "Cucumber-(BDD-Framework)"<br>💬 Ask me about Manual & Automation<br>⚡ Fun fact Nothing in the World is DEFECT Free
+🔭 I’m currently working on Automation Testing<br>👯 I’m looking to collaborate on Freelance Projects<br>🤝 I’m looking for help with Certified QA<br>🌱 I’m currently learning "Cucumber-(BDD-Framework)"<br>💬 Ask me about Manual & Automation<br>⚡ Fun fact "Nothing in the World is DEFECT Free"
 
 
 ## 🌐 Socials:
